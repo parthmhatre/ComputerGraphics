@@ -1,0 +1,2 @@
+﻿#!/bin/bash
+java -jar catmull_rom.jar 

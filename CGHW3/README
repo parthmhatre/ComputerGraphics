@@ -1,0 +1,11 @@
+README
+
+Instructions to execute program.
+->Download superelipsoid.java, superelipsoid.jar, CG_hw4 at same location.
+->Give 775 permission to CG_hw4 file (chmod 775 CG_hw4)
+->Fire "./CG_hw4 -r [s1_val] -t [s2_val] -A [Aval] -B [Bval] -C [Cval] -u [u_num] -v [v_num] -S > out.iv" command in shell.
+->Open 'out.iv' using FreeCad
+
+
+->The line numbers on which the surface normal calculation is done is 167-174 in the file superelipsoid.java
+->I have calculated the normal coordinates using the formula mentioned in assignment 4 which is exact normal calculation.

@@ -1,0 +1,7 @@
+README
+
+Instructions to execute program.
+->Download heirarchicalmodels.java, heirarchicalmodels.jar, CG_hw5 at same location.
+->Give 775 permission to CG_hw5 file (chmod 775 CG_hw5)
+->Fire "./CG_hw5 -t [a1_val] -u [a2_val] -v [a3_val] -l [l1_val] -m [l2_val] -n [l3_val] > out.iv" command in shell.
+->Open 'out.iv' using FreeCad
